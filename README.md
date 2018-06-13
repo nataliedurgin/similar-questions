@@ -8,4 +8,4 @@ Follow Along:
 - <a href="https://drive.google.com/file/d/1y0mzdhiqXIgDSE-lXdV5DRnv7FXtjGRW/view?usp=sharing"> Google Colaboratory Notebook </a> (Download a copy)
 - Clone repo and run notebook locally 
 
-Happy to answer notebook questions after the talk!
+Happy to address notebook specific questions/issues after the talk!
