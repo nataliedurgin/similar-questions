@@ -1,6 +1,4 @@
 # similar-questions
-Notebook designed for an NLP talk at Austin Big Data AI meetup. 
-
 Talk will be given using RISE (<a href="https://github.com/damianavila/RISE"> Reveal.js - Jupyter/IPython Slideshow Extension</a>)
 
 Follow Along:
@@ -8,3 +6,8 @@ Follow Along:
 - Clone repo and run notebook locally 
 
 Happy to address notebook specific questions/issues after the talk!
+
+## Talks 
+* Austin Big Data AI meetup. 
+* Spiceworld 2018
+
